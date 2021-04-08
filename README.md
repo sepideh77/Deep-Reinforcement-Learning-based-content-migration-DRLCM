@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning-based content migration
 
-This folder contains main body of Deep Reinforcement Learning-based Content Migration (DRLCM)
+This package code contains implimentation of the main body of Deep Reinforcement Learning-based Content Migration (DRLCM).
 The code structure is inspired from "BinPacking_Neural_Combinatorial_Optimization"
 Model built by Ruben Solozabal. Readers are encourged to first get familiar with DRL based binpacking simulation code 
 as DRLCM is a dynamic and more complex model.
@@ -24,6 +24,6 @@ The performance of the DRLCM is compared to 5 LRU-based content placements
 # Author
 
 Sepideh Malektaji 
-PhD student Concordia University
+
 
 
